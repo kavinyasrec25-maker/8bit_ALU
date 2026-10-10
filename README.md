@@ -18,7 +18,9 @@ Design and FPGA implementation of an 8-bit Arithmetic Logic Unit (ALU) using Ver
   1010         -    HLT
 
   # BLOCK DIAGRAM
- <img width="577" height="387" alt="image" src="https://github.com/user-attachments/assets/6d8191b5-547c-4263-8c50-3149c7671d61" />
+ <img width="726" height="651" alt="Screenshot 2026-10-09 223732" src="https://github.com/user-attachments/assets/77112c18-1df7-461b-9f22-1e80a275bb35" />
+ 
+ 
 
  
 
